@@ -53,4 +53,4 @@ EOF  all  count  create  destroy  help  quit  show  update
 
 ### Authors :fountain_pen:
 * Geleta Yohannes - @GeletaYohannes
-* Kirubel Fasil - @AKirubel-F
+* Kirubel Fasil - @Kirubel-F
